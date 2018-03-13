@@ -12,9 +12,7 @@ import java.io.IOException;
 import java.net.URL;
 import java.util.ResourceBundle;
 
-/**
- * Created by Alicja on 2017-12-27.
- */
+
 public class QuestionController implements Initializable {
 
     @FXML  private Label tresc1;
@@ -56,6 +54,7 @@ public class QuestionController implements Initializable {
     in = client.InputConnection();
     DataOutputStream out;
     out = client.OutputConnection();
+
     if(!baza.getText().equals("JAVA_PROJEKT")){
         Alert a = new Alert(Alert.AlertType.ERROR);
         a.setTitle("Error");

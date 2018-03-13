@@ -4,9 +4,7 @@ import java.io.*;
 import java.net.Socket;
 import java.util.Random;
 
-/**
- * Created by Alicja on 2017-12-28.
- */
+
 public class Client {
     private final static String ADDRESS = "localhost";
     private final static int PORT = 9090;

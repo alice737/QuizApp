@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="KolokwiumKlientServer:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/KolokwiumKlientServer_jar2</output-path>
+    <root id="archive" name="Server.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/view/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="KolokwiumKlientServer" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../ojdbc6.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

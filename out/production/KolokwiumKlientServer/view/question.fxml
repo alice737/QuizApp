@@ -14,9 +14,9 @@
 
 <AnchorPane prefHeight="450.0" prefWidth="800.0" style="-fx-background-color: #d1d1d1; -fx-border-color: white;" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.QuestionController">
     <children>
-        <Pane layoutX="6.0" layoutY="312.0" prefHeight="195.0" prefWidth="778.0" style="-fx-background-color: #aec9e5; -fx-border-color: white; -fx-border-width: 3px;">
+        <Pane layoutX="6.0" layoutY="312.0" prefHeight="195.0" prefWidth="787.0" style="-fx-background-color: #aec9e5; -fx-border-color: white; -fx-border-width: 3px;">
             <children>
-                <Label fx:id="tresc1" layoutX="6.0" layoutY="3.0" prefHeight="54.0" prefWidth="766.0">
+                <Label fx:id="tresc1" layoutX="6.0" layoutY="3.0" prefHeight="54.0" prefWidth="777.0">
                <font>
                   <Font size="14.0" />
                </font></Label>

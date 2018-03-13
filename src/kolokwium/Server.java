@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.net.ServerSocket;
 
 public class Server {
-    public static void main(String[] args) {
+    public static void main() {
         int port = 9090;
 
         try (ServerSocket serverSocket = new ServerSocket(port)){

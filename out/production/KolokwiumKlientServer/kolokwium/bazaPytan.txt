@@ -1,5 +1,0 @@
-1.Które z poniższych zdań są prawdziwe.
-  A) Konstruktor ma taką samą nazwę co klasa oraz nie ma typu zwrotnego lub zwraca void.
-  B) Klasa może mieć tylko jeden konstruktor.
-  C) Interfejs może mieć tylko jeden konstruktor.
-  D) Jeżeli programista zdefiniuje jakiś konstruktor, to domyślny zeroargumentowy konstruktor nie jest dodawany.
